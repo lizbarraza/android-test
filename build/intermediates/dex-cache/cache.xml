@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lizbarraza/AndroidStudioProjects/Project1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/lizbarraza/AndroidStudioProjects/Project1/app/build/intermediates/pre-dexed/debug/classes-614adb2b557bb4690ceb1ef3e035a9ab7f8fdcb7.jar" />
+    </item>
+    <item
+        jar="/Users/lizbarraza/AndroidStudioProjects/Project1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.36/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="7421dcb3ed9db47a59ec618e2398f0df65c2d480">
+        <dex dex="/Users/lizbarraza/AndroidStudioProjects/Project1/app/build/intermediates/pre-dexed/debug/classes-cdac0733e563cfb12d537fd6b6c1f47200a23562.jar" />
+    </item>
+    <item
+        jar="/Users/lizbarraza/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/lizbarraza/AndroidStudioProjects/Project1/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-d09020f6a19df2bc8610ae6820932e4b4d191993.jar" />
+    </item>
+    <item
+        jar="/Users/lizbarraza/AndroidStudioProjects/Project1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/lizbarraza/AndroidStudioProjects/Project1/app/build/intermediates/pre-dexed/debug/classes-12f145669e39c280cc8c1828879c22b5a5b73569.jar" />
+    </item>
+    <item
+        jar="/Users/lizbarraza/AndroidStudioProjects/Project1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/lizbarraza/AndroidStudioProjects/Project1/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-e4103a0a4bc801a20e23dca4049275139abb12ec.jar" />
+    </item>
+
+</items>

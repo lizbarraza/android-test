@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btOn"
+        android:text="ON"
+        android:layout_alignLeft="@+id/btOff"
+        android:layout_alignStart="@+id/btOff"
+        android:layout_above="@+id/btOff"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btOff"
+        android:text="OFF"
+        android:layout_above="@+id/btDisc"
+        android:layout_alignLeft="@+id/btDisc"
+        android:layout_alignStart="@+id/btDisc"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btDisc"
+        android:text="Discoverable"
+        android:layout_above="@+id/btWifiOn"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal" />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btWifiOn"
+        android:text="WiFi On"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/btWifiOff"
+        android:layout_alignStart="@+id/btWifiOff"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btWifiOff"
+        android:text="WiFiOff"
+        android:layout_below="@+id/btWifiOn"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>
